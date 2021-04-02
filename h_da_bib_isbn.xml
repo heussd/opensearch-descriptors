@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  
+  <ShortName>Hochschulbibliothek Darmstadt ISBN</ShortName>
+  <Description>OPAC der Hochschulbibliothek Darmstadt ISBN</Description>
+  <Url type="text/html" method="get" template="http://pica1l.lhb.tu-darmstadt.de/DB=FHBDA/SET=0/TTL=1/CMD?ACT=SRCHA&amp;IKT=8520&amp;SRT=YOP&amp;TRM={searchTerms}"/>
+  <Image width="16" height="16">data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAAlwSFlzAAALEwAACxMBAJqcGAAAAAd0SU1FB9kJCQ4zOF8KOhgAAAAZdEVYdENvbW1lbnQAQ3JlYXRlZCB3aXRoIEdJTVBXgQ4XAAABDUlEQVQ4y62QsUoDQRCGvz1SpDBhEUST2pSx8QFsFbFLEQmEwFn5BKYJmMLCWAo2uc5WMOA7hIidhYpdmtwdIlsoxCab5i4Ml9jcZbqd+feb/x/IWOq/Qal6ZuV78tpXqbfEsCQUwMkCBMhltb4EkB9WWV5LhJUO0l49l8a61GaOoDytLdACLoEy8NbfOtgbfg7imf3I76hr/10BRL0T15gnT2sbO7gF6sAG0Kl9P8sl245dSnTlae3ICD3gAjgHwpvysRSHlb+glwAUgcYC4BrTBU6BF+Co/jWU4kIEltUBuguAp/UYOARGwGB3GkhxHpgmAPfAj4zQjI74Czw8bu5LsQ/cyYZrzAxoA8wB0cFVnjs7z/YAAAAASUVORK5CYII=</Image>
+  <InputEncoding>UTF-8</InputEncoding>
+  <moz:SearchForm>http://pica1l.lhb.tu-darmstadt.de/DB=FHBDA/SET=0/TTL=1/CMD?ACT=SRCHA&amp;IKT=8520&amp;SRT=YOP&amp;TRM={searchTerms}</moz:SearchForm>
+  <!--<moz:UpdateUrl>http://mycroft.mozdev.org/updateos.php/id0/h_da Bibliothek.xml</moz:UpdateUrl>-->
+  <!--<moz:IconUpdateUrl>http://mycroft.mozdev.org/updateos.php/id0/h_da Bibliothek.ico</moz:IconUpdateUrl>-->
+  <!--<moz:UpdateInterval>7</moz:UpdateInterval>-->
+</OpenSearchDescription>
