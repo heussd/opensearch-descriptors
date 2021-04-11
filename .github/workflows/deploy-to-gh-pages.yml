@@ -1,10 +1,10 @@
-name: Release to GitHub Pages
+name: Deploy to GitHub Pages
 on: [push]
 
 
 jobs:
-  mirror-to-bitbucket:
-    name: Checkout and Release
+  deploy-to-gh-pages:
+    name: Checkout and Deploy
     runs-on: ubuntu-latest
     steps:
       -
