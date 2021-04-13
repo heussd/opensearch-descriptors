@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
+<!-- https://duckduckgo.com/params -->
+	<ShortName>DuckDuckGo</ShortName>
+	<Description>DuckDuckGo - Timm's flavor</Description>
+	<InputEncoding>UTF-8</InputEncoding>
+	<Image height="152" width="152" type="image/png">
+        https://duckduckgo.com/assets/icons/meta/DDG-iOS-icon_152x152.png
+    </Image>
+	<Url type="text/html" template="https://duckduckgo.com/?q={searchTerms}&k1=-1&ko=1&kaq=-1&kav=1&kak=-1&kax=-1&km=m&kae=d&kao=-1&kaq=-1&kap=-1"/>
+</OpenSearchDescription>
