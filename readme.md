@@ -1,1 +1,1 @@
-[[https://heussd.github.io/opensearch-descriptors/]]
+<https://heussd.github.io/opensearch-descriptors/>
